@@ -10,5 +10,8 @@ public class MyJavaRepo {
 		System.out.println(num+nums);
 		
 	}
+	public void thisisfortestpurposes() {
+		
+	}
 
 }
